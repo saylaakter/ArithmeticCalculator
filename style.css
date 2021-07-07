@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    margin: 0 auto;
+    background-color: #e0e0e0;
+}
+.caculator form {
+    text-align: center;
+    padding: 20px 0px;
+
+}
+form input {
+    padding: 20px 23px;
+    margin: 10px;
+    box-shadow: 20px 20px 60px #bebebe,-20px -20px 60px #ffffff;
+    border: none;
+    border-radius: 50px;
+
+    
+}
+.btn {
+    cursor: pointer;
+    border-radius: 50px;
+    box-shadow: 20px 20px 60px #bebebe,-20px -20px 60px #ffffff;
+    background-color: #e0e0e0;
+    border: none;
+    margin: 40px 0px 0px 31px;
+}
+.form-control {
+    width: 24%;
+    padding: 18px 22px;
+    display: inline-block;
+    border-radius: 50px;
+    background-color: #e0e0e0;
+    border: none;
+
+}
+.btn {
+    padding: 10px 18px;
+    font-size: 18px;
+}
+.caculator h1 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 12px;
+    padding: 100px 0px 35px 0px;
+}
